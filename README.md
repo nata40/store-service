@@ -18,7 +18,7 @@ Wyświetlanie wszystkich zamówień:
   - Dane wyświetlane są w tabeli w formacie ID i nazwa produktu
  
 Wyświetlanie szczegółów zamówienia:
-  - Aby wyświetlić szczegóły zamówienia potrzebne jest podanie ID, które można podglądnąć w ,,Wszystkich zamówieniach".
+  - Aby wyświetlić szczegóły zamówienia potrzebne jest podanie ID, które można podglądnąć w kategorii  ,,Wszystkich zamówieniach".
   - Wpisanie przypadkowego ID lub pozostawienie pustego pola skutuje wystąpieniem kontrolowanego błędu.
   
 Edycja zamówienia:
